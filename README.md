@@ -19,7 +19,7 @@ The F&B Sales Dashboard highlights a total sales figure of 53 million USD, with 
 
 These findings provide insights into sales performance, customer preferences, and trends, aiding in strategic decision-making
 
-![image](https://github.com/prernaInkar43/Food-and-Beverage-Dashboard/assets/96662678/d7906f51-cf62-4ff8-8ce3-3a889b07802f)
+![image](https://github.com/prernaInkar43/Food-and-Beverage-Dashboard/assets/96662678/fbfd268a-abef-4122-93bb-c250de3f9147)
 
 
 
